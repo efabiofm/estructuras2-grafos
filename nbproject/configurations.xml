@@ -6,6 +6,7 @@
                    projectFiles="true">
       <itemPath>HashNode.h</itemPath>
       <itemPath>HashTable.h</itemPath>
+      <itemPath>Vertice.h</itemPath>
       <itemPath>grafo.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -17,6 +18,7 @@
                    projectFiles="true">
       <itemPath>HashNode.cpp</itemPath>
       <itemPath>HashTable.cpp</itemPath>
+      <itemPath>Vertice.cpp</itemPath>
       <itemPath>grafo.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
@@ -32,6 +34,9 @@
       <itemPath>Makefile</itemPath>
     </logicalFolder>
   </logicalFolder>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="Debug" type="4">
@@ -52,6 +57,10 @@
       <item path="HashTable.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="HashTable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Vertice.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Vertice.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="grafo.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -91,6 +100,10 @@
       <item path="HashTable.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="HashTable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Vertice.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Vertice.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="grafo.cpp" ex="false" tool="1" flavor2="0">
       </item>
